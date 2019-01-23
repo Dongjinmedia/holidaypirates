@@ -8,7 +8,8 @@ app = Flask(__name__)
 
 def hello():
 
-	return 'Hello Raihan and holidaypirates!'
+	return 'Hello Raihan'
+        
 
 
 
